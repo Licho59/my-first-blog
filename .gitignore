@@ -5,3 +5,4 @@ db.sqlite3
 /static
 .DS_Store
 moje.txt
+my_key.py
